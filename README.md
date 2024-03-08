@@ -52,3 +52,6 @@ Este comando iniciará un servidor Node.js para servir los archivos compilados e
 Implementación Recomendada
 
 #### Para implementaciones, recomendamos el uso de Vercel. Para más información, visita Vercel.
+=======
+# openbankingworkshop-transmisora
+openbankingworkshop-transmisora
